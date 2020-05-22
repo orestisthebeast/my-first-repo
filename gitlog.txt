@@ -1,0 +1,29 @@
+commit 05a42ebf4e65473886519a56938769f3f68ceb93
+Author: orestisthebeast <orestisorphanou@gmail.com>
+Date:   Thu May 14 13:39:02 2020 +0100
+
+    Readjusted .gitignore
+
+commit d1a8516b28283da463167d0065ce90deee1eb5f9
+Author: orestisthebeast <orestisorphanou@gmail.com>
+Date:   Thu May 14 13:36:47 2020 +0100
+
+    Reset gitignore
+
+commit 5c6620c4252f5e28be05384c2dd92286c44f8051
+Author: orestisthebeast <orestisorphanou@gmail.com>
+Date:   Thu May 14 12:27:24 2020 +0100
+
+    Added gitignore
+
+commit 6fd5db82de1f757c39ec3acf7eeea45813632760
+Author: orestisthebeast <orestisorphanou@gmail.com>
+Date:   Thu May 14 11:35:40 2020 +0100
+
+    Added 2 files
+
+commit 53cdaf60434cb3b2d71dae1078527a34d3a4b4bc
+Author: orestisthebeast <orestisorphanou@gmail.com>
+Date:   Thu May 14 11:21:50 2020 +0100
+
+    added readme.txt
