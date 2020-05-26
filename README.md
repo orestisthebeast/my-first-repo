@@ -1,28 +1,27 @@
-# This is a large heading
+# Orestis Orphanou
 
-## This is a smaller heading
+## Born in Larnaca, in sunny Cyprus
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+In the near future, I hope to incorporate this knowledge into my *career*.
+**Coding is mega fun!**
 
-- This is
-- an unordered
-- list
+### Favourite fictional characters:
 
-1. This is
-2. an ordered
-3. list
+- Sterling M. Archer, *Archer*
+- Captain Leslie Hero, *Drawn Together*
+- Wade W Wilson, *Deadpool*
 
-Here is `some code` in the middle of a sentence.
+### Favourite Film Scenes
 
-```
-This is
-a block
-of code
-```
+1. Music scene in **The Shawshank Redemption**
+2. *\'Ah, but have you named them yet?'* in **The Count of Monte Cristo**
+3. *For Frodo.* in **Lord of the Rings: The Return of the King**
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Realistic depiction of my face
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+(![Wishful thinking:](https://i.kym-cdn.com/entries/icons/facebook/000/003/047/omg.jpg))
+
+(![Reality:](https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Squidward_Tentacles.svg/1200px-Squidward_Tentacles.svg.png))
+
+
+Right c'mon let's get on with this project then.
